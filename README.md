@@ -12,7 +12,9 @@ Paneme kirja andmed:
 
 Otsustasin, et ei seo oma koodi reaalajaliste andmete või käsitsi korjatud infoga bussi nr 8 liikumise kohta, vaid võtan vaatluse alla MINIMAALSE ja MAKSIMAALSE aja, et Rita tööle jõuab. Selle abil on mul võimalik nende MIN ja MAX piiride vahel luua lugematul arvul simulatsioone ja see võimaldab mul teha graafiku, mis arvestab (peaaegu) igat võimalikku olukorda. PS! Selles lahenduses ei ole arvestatud Tallinna linna igaastaste "kevadekuulutajate" ehk teetööde ja muu sellisega, mis võiks veel liikumise aega mõjutada. 
 
-Võtan vaatluse alla avalikud andmed bussi nr 8 kohta ja jälgin ajavahemikku kella 8 ja 9 vahel (nagu ülesande näidisgraafikul kujutatud):
+Võtan vaatluse alla avalikud andmed bussi nr 8 kohta ja jälgin ajavahemikku kella 8 ja 9 vahel (nagu ülesande näidisgraafikul kujutatud): 
+https://transport.tallinn.ee/#bus/8/a-b/00702-1/128 
+
 Täpsustan, et bussigraafikul mainitud lubatud hilinemine (+- 2 min) on siin ülesandes arvestatud vaid selliselt, et kuigi buss võib peatusesse jõuda 2 min varem, siis väljub ta alati õigel kellaajal. Seega koodis arvestan +2 min just hilinemisena ehk maksimaalse aja alla.
 
 Minimaalne aeg:
