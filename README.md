@@ -31,5 +31,8 @@ Suurim aeg Zoo peatusest Toompargi peatusesse jõudmiseks on 14 min (+ 2min)
 
 Simulatsioon käivitub iga minut alates 08:00 kuni 09:00. Iga kodust lahkumise ajahetke kohta teostatakse 10 000 juhuslikku simulatsiooni (Monte Carlo meetod), et hinnata hilinemise tõenäosust.
 
-Failid:
-1) Pythoni kood (lisatud on numpy, matplotlib ja datetime, timedelta paketid)
+Pythoni kood: (lisatud on numpy, matplotlib ja datetime, timedelta paketid)
+
+(PS! Kasutasin Tehisintellekti abi ülesande lahendamisel. Tema andis idee, et proovida Monte Carlo meetodit (meetodit õppisin Youtube-st) ning aitas defineerida funktsiooni minu etteantud tingimustel)
+
+Merilin Tkatšenko
