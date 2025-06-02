@@ -15,6 +15,8 @@ Otsustasin, et ei seo oma koodi reaalajaliste andmete või käsitsi korjatud inf
 Võtan vaatluse alla avalikud andmed bussi nr 8 kohta ja jälgin ajavahemikku kella 8 ja 9 vahel (nagu ülesande näidisgraafikul kujutatud): 
 https://transport.tallinn.ee/#bus/8/a-b/00702-1/128 
 
+(02.06.25 lisasin ka Exceli faili, kus on käsitsi kirjutatud bussi nr 8 kohta andmed ajavahemikus kl 8-9 tööpäeva hommikul)
+
 Täpsustan, et bussigraafikul mainitud lubatud hilinemine (+- 2 min) on siin ülesandes arvestatud vaid selliselt, et kuigi buss võib peatusesse jõuda 2 min varem, siis väljub ta alati õigel kellaajal. Seega koodis arvestan +2 min just hilinemisena ehk maksimaalse aja alla.
 
 Minimaalne aeg:
