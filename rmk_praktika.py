@@ -9,8 +9,8 @@ peatusesse = 300  # 5 min
 kontorisse = 240  # 4 min
 
 # Arvutan minimaalse ja maksimaalse aja kodust kontorisse jõudmiseks:
-# Min: buss tuleb kohe, kui Rita peatusesse jõuab ja sõidab kiiresti (13 min)
-# Max: buss läheb just ära, järgmine tuleb 13 min hiljem ja sõidab aeglaselt (17 min)
+# Min: buss tuleb kohe, kui Rita peatusesse jõuab ja sõidab kiiresti (12 min)
+# Max: buss läheb just ära, järgmine tuleb 14 min hiljem ja sõidab aeglaselt 
 ooteaeg_min = 0
 ooteaeg_max = 840  # 12 min + 2 min = 14 min
 soiduaeg_min = 780  # 13 min
